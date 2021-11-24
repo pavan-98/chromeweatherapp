@@ -2,6 +2,8 @@
 Weather App inside a Chrome Extension, Along with Details on How to Create a Chrome App.
 <img width="1628" alt="Screenshot 2021-11-24 at 11 52 05 PM" src="https://user-images.githubusercontent.com/49464941/143293929-4aca5b25-4c3c-428e-86eb-0704cb605a61.png">
 
+Follow Step 3 Below to Test this Particular Weather App: https://github.com/pavan-98/chromeweatherapp#step-3
+
 ## Creating a Chome Extension App
 hrome web apps are extensions or little web elements to run specifically on Google Chrome browsers only. This article is a step by step tutorial for creating a Google Chrome app from your web application which you can use personally or publish it on the Chrome store.
 
