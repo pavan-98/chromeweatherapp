@@ -5,12 +5,15 @@
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  background-color: linear-gradiet(300deg, #757b87, #909d9d);
+  background-color: linear-gradient(300deg, #757b87, #909d9d);
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 550px;
+  width: 400px;
   flex-direction: column;
+  padding: 20px;
+  overflow-x: hidden;
 }
 input {
   padding: 1rem;
